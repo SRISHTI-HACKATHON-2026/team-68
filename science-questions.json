@@ -1,0 +1,808 @@
+{
+  "q1": {
+    "questionId": "q1",
+    "subject": "science",
+    "classLevel": "6",
+    "concept": "photosynthesis",
+    "difficulty": "easy",
+    "questionText": "What is the main purpose of photosynthesis in plants?",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q2": {
+    "questionId": "q2",
+    "subject": "science",
+    "classLevel": "6",
+    "concept": "gravity",
+    "difficulty": "easy",
+    "questionText": "Why do objects fall towards Earth?",
+    "context": "You notice that when you drop something, it falls down, not up or sideways.",
+    "hints": [
+      "It's a force, not a push",
+      "Earth has a special property that pulls things",
+      "Think about magnets"
+    ],
+    "correctKeywords": [
+      "gravity",
+      "pull",
+      "force",
+      "attract",
+      "earth"
+    ],
+    "partialKeywords": [
+      "down",
+      "fall",
+      "heavy",
+      "weight"
+    ],
+    "wrongKeywords": [
+      "push",
+      "pressure",
+      "air",
+      "weight pushes"
+    ],
+    "roteMemoKeywords": [
+      "gravity",
+      "earth"
+    ],
+    "simpleExplanation": "Gravity is an invisible force that pulls all objects towards Earth. It's like Earth is a giant magnet that attracts everything! This pull is why you stay on the ground and don't float away.",
+    "explanations": {
+      "CORRECT": "Perfect! You understand that gravity is a pulling force from Earth that attracts objects.",
+      "CONCEPTUAL_ERROR": "I see the confusion - gravity isn't a push from above. It's actually a pull from Earth! Like an invisible rope connecting everything to Earth.",
+      "PARTIAL_UNDERSTANDING": "You're right that objects fall, but let's understand why. It's because of gravity, a pulling force from Earth, not just that things are heavy.",
+      "ROTE_MEMORIZATION": "You've memorized the word, but imagine gravity as an invisible rope. Earth pulls everything towards its center with this invisible force.",
+      "IRRELEVANT_GUESSING": "Let's think about what causes things to fall. Why doesn't everything float in the air?"
+    }
+  },
+  "q3": {
+    "questionId": "q3",
+    "subject": "science",
+    "classLevel": "7",
+    "concept": "respiration",
+    "difficulty": "medium",
+    "questionText": "Explain how cellular respiration helps your body function.",
+    "context": "Your cells need energy to do work, just like a car needs fuel.",
+    "hints": [
+      "Think about what your cells need from the food you eat",
+      "You breathe in oxygen for a reason",
+      "Energy is produced inside cells"
+    ],
+    "correctKeywords": [
+      "glucose",
+      "oxygen",
+      "energy",
+      "atp",
+      "cells",
+      "mitochondria",
+      "release"
+    ],
+    "partialKeywords": [
+      "food",
+      "oxygen",
+      "energy",
+      "break down"
+    ],
+    "wrongKeywords": [
+      "photosynthesis",
+      "storing energy",
+      "plant",
+      "sunlight"
+    ],
+    "roteMemoKeywords": [
+      "respiration",
+      "cellular"
+    ],
+    "simpleExplanation": "Cellular respiration is how your cells extract energy from food. Your cells take glucose (from food) and oxygen (from breathing) and break them down safely to release energy (ATP). This energy powers everything your body does!",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that cellular respiration breaks down glucose with oxygen to release energy that powers cells.",
+      "CONCEPTUAL_ERROR": "I notice you might be confusing this with photosynthesis. Respiration is the opposite - it breaks down food to get energy, not create food.",
+      "PARTIAL_UNDERSTANDING": "Good start! You understand cells need energy from food, but let's add: respiration specifically uses oxygen to break down glucose into usable energy.",
+      "ROTE_MEMORIZATION": "You know the terms, but think of it like this: Your cells are tiny power plants. They burn glucose fuel with oxygen to create energy for your body.",
+      "IRRELEVANT_GUESSING": "Let's think about why we need to breathe and eat. Both give our cells something important..."
+    }
+  },
+  "q4": {
+    "questionId": "q4",
+    "subject": "science",
+    "classLevel": "8",
+    "concept": "atom",
+    "difficulty": "medium",
+    "questionText": "What is an atom and how is it structured?",
+    "context": "Everything you see is made of atoms. They're the building blocks of matter.",
+    "hints": [
+      "Think of it like a mini solar system",
+      "There's a center and particles orbiting around it",
+      "Particles are tiny and far apart"
+    ],
+    "correctKeywords": [
+      "nucleus",
+      "proton",
+      "neutron",
+      "electron",
+      "orbit",
+      "shells",
+      "center"
+    ],
+    "partialKeywords": [
+      "tiny",
+      "particle",
+      "structure",
+      "center"
+    ],
+    "wrongKeywords": [
+      "solid",
+      "no space",
+      "touching",
+      "stuck together"
+    ],
+    "roteMemoKeywords": [
+      "atom",
+      "structure"
+    ],
+    "simpleExplanation": "An atom is the tiniest piece of matter. It's like a mini solar system! At the center is the nucleus containing protons and neutrons. Around it, electrons zoom through shells like planets orbiting the sun. Most of an atom is actually empty space!",
+    "explanations": {
+      "CORRECT": "Perfect! You understand atoms have a nucleus with electrons orbiting in shells, mostly empty space.",
+      "CONCEPTUAL_ERROR": "I think you might picture atoms as solid balls. Actually, they're mostly empty space with a nucleus and electrons orbiting at a distance!",
+      "PARTIAL_UNDERSTANDING": "Good! You know atoms have parts. Let's be more specific: nucleus (center with protons/neutrons) and electrons orbiting in shells.",
+      "ROTE_MEMORIZATION": "You've learned the parts, but visualize it: Imagine the nucleus at Earth and electrons at the Moon's distance. That's how much empty space atoms have!",
+      "IRRELEVANT_GUESSING": "Let's start simple: An atom is made of even tinier particles. What do you know about those particles?"
+    }
+  },
+  "q5": {
+    "questionId": "q5",
+    "subject": "science",
+    "classLevel": "6",
+    "concept": "ecosystem",
+    "difficulty": "medium",
+    "questionText": "How do producers, consumers, and decomposers work together in an ecosystem?",
+    "context": "An ecosystem is a community where different living things depend on each other.",
+    "hints": [
+      "Producers make their own food",
+      "Consumers eat other living things",
+      "Think about where waste goes"
+    ],
+    "correctKeywords": [
+      "producers",
+      "consumers",
+      "decomposers",
+      "food chain",
+      "energy flow",
+      "plants",
+      "animals",
+      "recycle"
+    ],
+    "partialKeywords": [
+      "food",
+      "plants",
+      "animals",
+      "depend"
+    ],
+    "wrongKeywords": [
+      "compete",
+      "independent",
+      "separate",
+      "no connection"
+    ],
+    "roteMemoKeywords": [
+      "ecosystem",
+      "roles"
+    ],
+    "simpleExplanation": "An ecosystem is like a family where everyone has a role. Producers (plants) create food from sunlight. Consumers (animals) eat plants or other animals. Decomposers (bacteria, fungi) break down dead things and return nutrients to soil. Together, they recycle energy and materials!",
+    "explanations": {
+      "CORRECT": "Excellent! You understand how producers, consumers, and decomposers form an interconnected food chain.",
+      "CONCEPTUAL_ERROR": "I notice you might think they work independently. Actually, they're all connected in a food chain - each depends on the others!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand some roles. Remember: producers create food, consumers eat food, and decomposers recycle dead matter.",
+      "ROTE_MEMORIZATION": "You know the terms. Now picture a real ecosystem: grass (producer) → rabbit (consumer) → fox (consumer) → dead fox (decomposer breaks it down)",
+      "IRRELEVANT_GUESSING": "Let's think about a simple question: What do plants do? What do animals do? What happens to dead things?"
+    }
+  },
+  "q6": {
+    "questionId": "q6",
+    "subject": "math",
+    "classLevel": "6",
+    "concept": "fractions",
+    "difficulty": "easy",
+    "questionText": "What is a fraction and how do you add two fractions with the same denominator?",
+    "context": "Fractions represent parts of a whole.",
+    "hints": [
+      "A fraction has a numerator and denominator",
+      "When denominators are same, just add numerators",
+      "Think of pizza slices"
+    ],
+    "correctKeywords": [
+      "numerator",
+      "denominator",
+      "add",
+      "same denominator",
+      "parts"
+    ],
+    "partialKeywords": [
+      "parts",
+      "whole",
+      "divide"
+    ],
+    "wrongKeywords": [
+      "multiply",
+      "subtract",
+      "different"
+    ],
+    "roteMemoKeywords": [
+      "fraction",
+      "add"
+    ],
+    "simpleExplanation": "A fraction shows part of a whole. The top number (numerator) tells how many parts you have. The bottom number (denominator) tells how many equal parts the whole is divided into. To add fractions with the same denominator, just add the numerators!",
+    "explanations": {
+      "CORRECT": "Perfect! You understand fractions and how to add those with the same denominator.",
+      "CONCEPTUAL_ERROR": "I see you might be confused about adding fractions. When denominators are the same, you only add the top numbers (numerators)!",
+      "PARTIAL_UNDERSTANDING": "Good start! Remember: keep the denominator the same and only add the numerators.",
+      "ROTE_MEMORIZATION": "You know the rule: same denominator = add numerators, keep denominator. Try it with 1/4 + 2/4 = 3/4",
+      "IRRELEVANT_GUESSING": "Let's think: If you have 1 slice of pizza and add 2 more slices, how many slices do you have?"
+    }
+  },
+  "q7": {
+    "questionId": "q7",
+    "subject": "english",
+    "classLevel": "6",
+    "concept": "parts_of_speech",
+    "difficulty": "easy",
+    "questionText": "What are the main parts of speech in English?",
+    "context": "Words in English are categorized based on their function.",
+    "hints": [
+      "Nouns name people, places, or things",
+      "Verbs show action or state",
+      "Adjectives describe nouns"
+    ],
+    "correctKeywords": [
+      "noun",
+      "verb",
+      "adjective",
+      "adverb",
+      "pronoun"
+    ],
+    "partialKeywords": [
+      "word",
+      "sentence",
+      "describe"
+    ],
+    "wrongKeywords": [
+      "sentence",
+      "paragraph",
+      "story"
+    ],
+    "roteMemoKeywords": [
+      "parts of speech"
+    ],
+    "simpleExplanation": "The main parts of speech are: Noun (person, place, or thing), Verb (action or state), Adjective (describes a noun), Adverb (describes a verb), Pronoun (replaces a noun).",
+    "explanations": {
+      "CORRECT": "Excellent! You understand the main parts of speech.",
+      "CONCEPTUAL_ERROR": "I notice you might be mixing up parts of speech. Remember: nouns name, verbs action, adjectives describe!",
+      "PARTIAL_UNDERSTANDING": "Good! You know some parts. Let's add: Pronouns replace nouns, adverbs describe verbs.",
+      "ROTE_MEMORIZATION": "Think: Noun = name, Verb = action, Adjective = describes noun. Example: 'She runs quickly' - She (pronoun), runs (verb), quickly (adverb)",
+      "IRRELEVANT_GUESSING": "Let's try: What part of speech is 'run'? What about 'beautiful'?"
+    }
+  },
+  "q8": {
+    "questionId": "q8",
+    "subject": "history",
+    "classLevel": "6",
+    "concept": "ancient_civilizations",
+    "difficulty": "easy",
+    "questionText": "What were the main ancient civilizations and where did they develop?",
+    "context": "Ancient civilizations laid the foundation for modern society.",
+    "hints": [
+      "Mesopotamia is called the cradle of civilization",
+      "Ancient Egypt grew along the Nile",
+      "Indus Valley was in India"
+    ],
+    "correctKeywords": [
+      "Mesopotamia",
+      "Egypt",
+      "Indus Valley",
+      "China",
+      "river"
+    ],
+    "partialKeywords": [
+      "ancient",
+      "civilization",
+      "old"
+    ],
+    "wrongKeywords": [
+      "modern",
+      "new",
+      "recent"
+    ],
+    "roteMemoKeywords": [
+      "ancient civilization"
+    ],
+    "simpleExplanation": "The main ancient civilizations were: Mesopotamia (between Tigris and Euphrates rivers), Ancient Egypt (along Nile), Indus Valley (in India), and Ancient China (along Yellow River). These civilizations developed near rivers for water and agriculture.",
+    "explanations": {
+      "CORRECT": "Perfect! You know the major ancient civilizations and their locations.",
+      "CONCEPTUAL_ERROR": "I see you might be confused about locations. Remember: Mesopotamia = between rivers, Egypt = Nile, Indus = India!",
+      "PARTIAL_UNDERSTANDING": "Good! You know some civilizations. They all developed near rivers for farming.",
+      "ROTE_MEMORIZATION": "Picture it: Mesopotamia (land between rivers), Egypt (gift of Nile), Indus (near Indus River), China (Yellow River)",
+      "IRRELEVANT_GUESSING": "Let's think: Which civilization grew near a great river in Africa? What about in India?"
+    }
+  },
+  "q9": {
+    "questionId": "q9",
+    "subject": "geography",
+    "classLevel": "6",
+    "concept": "earth_layers",
+    "difficulty": "easy",
+    "questionText": "What are the main layers of the Earth?",
+    "context": "The Earth is made of different layers, like an onion.",
+    "hints": [
+      "Crust is the outer layer we live on",
+      "Mantle is the middle layer",
+      "Core is the innermost layer"
+    ],
+    "correctKeywords": [
+      "crust",
+      "mantle",
+      "core",
+      "inner",
+      "outer"
+    ],
+    "partialKeywords": [
+      "layers",
+      "Earth",
+      "inside"
+    ],
+    "wrongKeywords": [
+      "sky",
+      "atmosphere",
+      "space"
+    ],
+    "roteMemoKeywords": [
+      "Earth layers"
+    ],
+    "simpleExplanation": "Earth has three main layers: 1) Crust - the thin outer layer where we live, 2) Mantle - the thick middle layer with hot rock, 3) Core - the center, made of iron and nickel, very hot!",
+    "explanations": {
+      "CORRECT": "Excellent! You understand Earth's layers.",
+      "CONCEPTUAL_ERROR": "I notice you might be confusing the layers. Remember: Crust (outside), Mantle (middle), Core (center)!",
+      "PARTIAL_UNDERSTANDING": "Good! You know the layers. The crust is thinnest, core is hottest!",
+      "ROTE_MEMORIZATION": "Think: Crust = crust of bread (thin outer), Mantle = biggest part, Core = center (hot!)",
+      "IRRELEVANT_GUESSING": "Let's think: Which layer do we live on? What's at the center of Earth?"
+    }
+  },
+  "q10": {
+    "questionId": "q10",
+    "subject": "science",
+    "classLevel": "1",
+    "concept": "science_topic_1",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 1",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q11": {
+    "questionId": "q11",
+    "subject": "science",
+    "classLevel": "2",
+    "concept": "science_topic_2",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 2",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q12": {
+    "questionId": "q12",
+    "subject": "science",
+    "classLevel": "3",
+    "concept": "science_topic_3",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 3",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q13": {
+    "questionId": "q13",
+    "subject": "science",
+    "classLevel": "4",
+    "concept": "science_topic_4",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 4",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q14": {
+    "questionId": "q14",
+    "subject": "science",
+    "classLevel": "5",
+    "concept": "science_topic_5",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 5",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q15": {
+    "questionId": "q15",
+    "subject": "science",
+    "classLevel": "9",
+    "concept": "science_topic_9",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 9",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q16": {
+    "questionId": "q16",
+    "subject": "science",
+    "classLevel": "10",
+    "concept": "science_topic_10",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 10",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q17": {
+    "questionId": "q17",
+    "subject": "science",
+    "classLevel": "11",
+    "concept": "science_topic_11",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 11",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  },
+  "q18": {
+    "questionId": "q18",
+    "subject": "science",
+    "classLevel": "12",
+    "concept": "science_topic_12",
+    "difficulty": "easy",
+    "questionText": "Sample Science Question for Class 12",
+    "context": "Plants are the producers in an ecosystem. They need to create their own food.",
+    "hints": [
+      "Think about what plants use from the sun",
+      "Plants produce something that animals breathe",
+      "It's a process that creates food/energy"
+    ],
+    "correctKeywords": [
+      "food",
+      "energy",
+      "glucose",
+      "produce",
+      "convert"
+    ],
+    "partialKeywords": [
+      "sun",
+      "green",
+      "leaves",
+      "light"
+    ],
+    "wrongKeywords": [
+      "eat",
+      "digest",
+      "consume",
+      "breathing"
+    ],
+    "roteMemoKeywords": [
+      "process",
+      "sunlight"
+    ],
+    "simpleExplanation": "Photosynthesis is how plants make their own food! They use sunlight, water, and carbon dioxide from the air to create glucose (sugar) which gives them energy to grow. This is also how oxygen is produced for us to breathe.",
+    "explanations": {
+      "CORRECT": "Excellent! You understand that photosynthesis is about plants creating food/energy from sunlight.",
+      "CONCEPTUAL_ERROR": "I notice you might be thinking of photosynthesis like eating or digestion. Actually, it's a process where plants create their own food from sunlight!",
+      "PARTIAL_UNDERSTANDING": "Good! You understand part of it. Photosynthesis creates energy/food, but it also produces oxygen as a byproduct.",
+      "ROTE_MEMORIZATION": "You know the words, but let's make sure you understand what's actually happening. Photosynthesis is like plants making their own solar panels to create food!",
+      "IRRELEVANT_GUESSING": "Let's think about this step by step. What do plants need from their environment? What do they produce?"
+    }
+  }
+}

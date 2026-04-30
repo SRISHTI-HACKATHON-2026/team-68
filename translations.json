@@ -1,0 +1,68 @@
+{
+  "en": {
+    "language": "English",
+    "code": "en",
+    "translations": {
+      "studentMode": "Student Mode",
+      "teacherDashboard": "Teacher Dashboard",
+      "submitAnswer": "Submit Answer",
+      "yourAnswer": "Your Answer",
+      "analysis": "Analysis",
+      "conceptualError": "Conceptual Error",
+      "partialUnderstanding": "Partial Understanding",
+      "roteMoralization": "Rote Memorization",
+      "correctAnswer": "Correct Answer",
+      "irrelevantGuessing": "Irrelevant Guessing",
+      "feedback": "Feedback",
+      "explanation": "Explanation",
+      "storyBased": "Story-Based Explanation",
+      "visual": "Visual Representation",
+      "discussion": "Peer Discussion",
+      "score": "Score"
+    }
+  },
+  "kannada": {
+    "language": "ಕನ್ನಡ",
+    "code": "kannada",
+    "translations": {
+      "studentMode": "ಮಾಹಿತಿ",
+      "teacherDashboard": "ಅರ್ಹತೆಗಳ",
+      "submitAnswer": "ಉತ್ತರ ಸಲ್ಲಿಸಿ",
+      "yourAnswer": "ನಿಮ್ಮ ಉತ್ತರ",
+      "analysis": "ವಿಶ್ಲೇಷಣೆ",
+      "conceptualError": "ಪರಿಕಲ್ಪನಾ ಹೋರಾಟ",
+      "partialUnderstanding": "ಭಾಗಶಃ ತಿಳುವಳಿಕೆ",
+      "roteMoralization": "ನೆನಪಿಸಿಕೊಂಡ ಶಿಕ್ಷಣ",
+      "correctAnswer": "ಸರಿಯಾದ ಉತ್ತರ",
+      "irrelevantGuessing": "ಅಸಂಬದ್ಧ ಊಹೆ",
+      "feedback": "ಪ್ರತಿಕ್ರಿಯೆ",
+      "explanation": "ವಿವರಣೆ",
+      "storyBased": "ಕಥೆ-ಆಧಾರಿತ ವಿವರಣೆ",
+      "visual": "ಚಿತ್ರಾತ್ಮಕ ಪ್ರತಿನಿಧಿತ್ವ",
+      "discussion": "ಸಹಪಾಠಿ ಚರ್ಚೆ",
+      "score": "ಸ್ಕೋರ್"
+    }
+  },
+  "hindi": {
+    "language": "हिंदी",
+    "code": "hindi",
+    "translations": {
+      "studentMode": "छात्र मोड",
+      "teacherDashboard": "शिक्षक डैशबोर्ड",
+      "submitAnswer": "उत्तर जमा करें",
+      "yourAnswer": "आपका उत्तर",
+      "analysis": "विश्लेषण",
+      "conceptualError": "अवधारणात्मक त्रुटि",
+      "partialUnderstanding": "आंशिक समझ",
+      "roteMoralization": "रटा हुआ शिक्षण",
+      "correctAnswer": "सही उत्तर",
+      "irrelevantGuessing": "अप्रासंगिक अनुमान",
+      "feedback": "प्रतिक्रिया",
+      "explanation": "व्याख्या",
+      "storyBased": "कहानी-आधारित व्याख्या",
+      "visual": "दृश्य प्रतिनिधित्व",
+      "discussion": "सहकर्मी चर्चा",
+      "score": "स्कोर"
+    }
+  }
+}

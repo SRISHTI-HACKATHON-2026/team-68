@@ -1,0 +1,142 @@
+.question-card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: var(--shadow-lg);
+  border-left: 5px solid var(--primary-color);
+  animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.question-header {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}
+
+.concept-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.difficulty-badge {
+  display: inline-block;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.question-text {
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin: 15px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  line-height: 1.6;
+}
+
+.question-icon {
+  color: var(--primary-color);
+  flex-shrink: 0;
+  font-size: 1.5rem;
+}
+
+.question-context {
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.05), rgba(236, 72, 153, 0.05));
+  padding: 15px;
+  border-radius: 8px;
+  margin: 15px 0;
+  border-left: 3px solid var(--primary-color);
+}
+
+.question-context p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}
+
+.question-hints {
+  margin-top: 15px;
+}
+
+.question-hints details {
+  background: var(--background);
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid var(--border-color);
+}
+
+.question-hints details:hover {
+  background: rgba(99, 102, 241, 0.05);
+}
+
+.question-hints summary {
+  font-weight: 600;
+  color: var(--primary-color);
+  outline: none;
+}
+
+.question-hints summary:focus {
+  outline: 2px solid var(--primary-color);
+  border-radius: 4px;
+}
+
+.question-hints ul {
+  list-style-position: inside;
+  margin-top: 10px;
+  color: var(--text-secondary);
+}
+
+.question-hints li {
+  margin: 8px 0;
+  padding-left: 10px;
+}
+
+/* Styles for the AI Visual Explanation section */
+.visual-explanation {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.visual-explanation h3 {
+  font-size: 1.2rem;
+  color: #4A90E2;
+  margin-bottom: 10px;
+}
+
+.visual-explanation .visual-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .question-card {
+    padding: 15px;
+  }
+
+  .question-text {
+    font-size: 1.2rem;
+  }
+}

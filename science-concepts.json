@@ -1,0 +1,67 @@
+{
+  "photosynthesis": {
+    "name": "Photosynthesis",
+    "description": "Process by which plants convert light energy into chemical energy",
+    "keyTopics": ["light energy", "glucose production", "oxygen release", "chlorophyll", "light reactions", "dark reactions"],
+    "realWorldApplications": ["crop production", "oxygen generation", "food chain foundation"],
+    "commonMisconceptions": [
+      "Photosynthesis is the same as breathing",
+      "Plants get all their food from soil",
+      "Photosynthesis produces only oxygen",
+      "Sunlight is directly converted to food"
+    ],
+    "grade": "8-10"
+  },
+  "gravity": {
+    "name": "Gravity",
+    "description": "Force that attracts all objects with mass towards each other",
+    "keyTopics": ["force", "attraction", "mass", "weight", "acceleration"],
+    "realWorldApplications": ["planetary motion", "tides", "object motion", "structural engineering"],
+    "commonMisconceptions": [
+      "Gravity is a push from above",
+      "Only Earth has gravity",
+      "Heavier objects fall faster",
+      "Gravity is caused by weight"
+    ],
+    "grade": "6-12"
+  },
+  "respiration": {
+    "name": "Cellular Respiration",
+    "description": "Process of breaking down glucose to release energy in cells",
+    "keyTopics": ["glucose breakdown", "oxygen usage", "ATP production", "mitochondria", "aerobic", "anaerobic"],
+    "realWorldApplications": ["muscle energy", "brain function", "digestion", "exercise performance"],
+    "commonMisconceptions": [
+      "Respiration is only about breathing",
+      "Cellular respiration creates energy",
+      "Plants don't respire",
+      "Respiration and photosynthesis are the same"
+    ],
+    "grade": "9-12"
+  },
+  "atom": {
+    "name": "Atomic Structure",
+    "description": "Organization of subatomic particles in atoms",
+    "keyTopics": ["nucleus", "protons", "neutrons", "electrons", "electron shells", "atomic number"],
+    "realWorldApplications": ["chemistry reactions", "material properties", "nuclear energy", "semiconductors"],
+    "commonMisconceptions": [
+      "Atoms are solid and tightly packed",
+      "Electrons are stationary",
+      "Most of atom is filled",
+      "Protons and neutrons are the same"
+    ],
+    "grade": "7-12"
+  },
+  "ecosystem": {
+    "name": "Ecosystem Dynamics",
+    "description": "Interaction between living and non-living things in an environment",
+    "keyTopics": ["food chains", "food webs", "energy flow", "nutrient cycling", "biodiversity", "roles"],
+    "realWorldApplications": ["conservation", "climate change", "resource management", "agriculture"],
+    "commonMisconceptions": [
+      "Organisms in ecosystems are independent",
+      "Only animals are consumers",
+      "Decomposers are useless",
+      "Energy is created in ecosystems"
+    ],
+    "grade": "6-10"
+  }
+}

@@ -1,0 +1,84 @@
+--- CLASS 1 ---
+- Subject: Science | Question: "Which part of the plant grows under the ground?" | Context: Roots, stems, and leaves are parts of a plant. | Hint: Think about where water is found.
+- Subject: Math | Question: "What comes after 8 when counting by twos?" | Context: Counting by twos: 2, 4, 6, 8, 10. | Hint: Add 2 to 8.
+- Subject: English | Question: "Which word is a naming word (noun)?" | Context: A noun is a person, place, or thing. | Hint: It is something you can touch.
+- Subject: History | Question: "Where did early humans live?" | Context: Long ago, people lived in caves and hunted for food. | Hint: Dark places in mountains.
+- Subject: Geography | Question: "What tool helps us find places?" | Context: A map shows us where places are located. | Hint: It is drawn on paper.
+
+--- CLASS 2 ---
+- Subject: Science | Question: "Why are plants called producers?" | Context: Plants make their own food using sunlight. | Hint: They do not need to hunt for food.
+- Subject: Math | Question: "What is 10 more than 45?" | Context: Adding tens means changing the digit in the tens place. | Hint: Count by tens from 45.
+- Subject: English | Question: "What does an adjective do?" | Context: An adjective describes a noun. | Hint: It tells you more about a thing.
+- Subject: History | Question: "Why were the pyramids built?" | Context: The Egyptians built the pyramids as tombs for pharaohs. | Hint: To bury their kings.
+- Subject: Geography | Question: "What kind of water is in the ocean?" | Context: Oceans are large bodies of saltwater. | Hint: It is not fresh water.
+
+--- CLASS 3 ---
+- Subject: Science | Question: "What happens when you put a north pole and a south pole together?" | Context: Magnets have a north and south pole. Opposite poles attract. | Hint: They pull toward each other.
+- Subject: Math | Question: "What is 3 x 4?" | Context: Multiplication is repeated addition. 3 x 4 is 3 added 4 times. | Hint: Add 3 + 3 + 3 + 3.
+- Subject: English | Question: "Which of these is a verb?" | Context: Verbs are action words, like run, jump, and play. | Hint: Look for the action.
+- Subject: History | Question: "Who started the Olympics?" | Context: Ancient Greeks invented the Olympic Games. | Hint: People from Greece.
+- Subject: Geography | Question: "Which model represents the Earth?" | Context: The Earth is a sphere, and we use models called globes to see it. | Hint: It is round like a ball.
+
+--- CLASS 4 ---
+- Subject: Science | Question: "What do we call water when it is a solid?" | Context: Water can be a solid, liquid, or gas. | Hint: Think of what you put in your drinks to cool them.
+- Subject: Math | Question: "If you cut a pizza into 4 equal slices and eat 1, what fraction did you eat?" | Context: Fractions represent equal parts of a whole. | Hint: One out of four.
+- Subject: English | Question: "How should every sentence start?" | Context: A sentence always begins with a capital letter. | Hint: Think about big letters.
+- Subject: History | Question: "What did the Romans build for travel?" | Context: The Romans built long roads to connect their empire. | Hint: Paths for walking and carts.
+- Subject: Geography | Question: "What is the highest landform?" | Context: Mountains are the highest landforms on Earth. | Hint: They have peaks.
+
+--- CLASS 5 ---
+- Subject: Science | Question: "How long does one revolution of the Earth take?" | Context: The Earth revolves around the Sun, which takes 365 days. | Hint: It is the same as one year.
+- Subject: Math | Question: "How do you find the perimeter of a square?" | Context: The perimeter is the distance around a shape. | Hint: Add all the outside edges.
+- Subject: English | Question: "What is a simile?" | Context: A simile compares two things using like or as. | Hint: It involves a comparison.
+- Subject: History | Question: "Why did kings build castles?" | Context: Castles were built in the Middle Ages for protection. | Hint: To stay safe from enemies.
+- Subject: Geography | Question: "What is a desert?" | Context: A desert is a very dry area with little rain. | Hint: Think about sand and lack of water.
+
+--- CLASS 6 ---
+- Subject: Science | Question: "What is the smallest unit of life?" | Context: Cells are the basic building blocks of all living things. | Hint: It sounds like the word sell.
+- Subject: Math | Question: "How do you calculate the area of a rectangle?" | Context: Area is the space inside a 2D shape. For a rectangle, it is length times width. | Hint: Multiply two sides.
+- Subject: English | Question: "How is a metaphor different from a simile?" | Context: A metaphor states that one thing IS another thing. | Hint: It does not use like or as.
+- Subject: History | Question: "What does Renaissance mean?" | Context: The Renaissance was a time of rebirth in art and learning. | Hint: It means rebirth.
+- Subject: Geography | Question: "Where do rivers flow into?" | Context: Rivers flow downhill into lakes or oceans. | Hint: Larger bodies of water.
+
+--- CLASS 7 ---
+- Subject: Science | Question: "What three things do plants need to make food?" | Context: Photosynthesis requires sunlight, water, and carbon dioxide. | Hint: Light, a liquid, and a gas.
+- Subject: Math | Question: "What do we call an angle that is 45 degrees?" | Context: An acute angle is less than 90 degrees. | Hint: It means sharp or small.
+- Subject: English | Question: "Who is the protagonist?" | Context: The protagonist is the main character in a story. | Hint: The hero or main person.
+- Subject: History | Question: "What did the Industrial Revolution bring?" | Context: The Industrial Revolution introduced machines and factories. | Hint: Things that make manufacturing faster.
+- Subject: Geography | Question: "What is the equator?" | Context: The equator is an imaginary line around the middle of the Earth. | Hint: It divides the Earth into North and South.
+
+--- CLASS 8 ---
+- Subject: Science | Question: "How do you calculate force?" | Context: Force equals mass times acceleration (F=ma). | Hint: Multiply two other physical properties.
+- Subject: Math | Question: "What theorem relates the sides of a right triangle?" | Context: The Pythagorean theorem is a^2 + b^2 = c^2. | Hint: Named after Pythagoras.
+- Subject: English | Question: "What literary device hints at the future?" | Context: Foreshadowing gives hints about what will happen later. | Hint: Think about a shadow cast forward.
+- Subject: History | Question: "In what year did WWI begin?" | Context: World War I began in 1914. | Hint: Fourteen years after 1900.
+- Subject: Geography | Question: "How is climate different from weather?" | Context: Climate is the average weather over a long period. | Hint: It is over a long time.
+
+--- CLASS 9 ---
+- Subject: Science | Question: "What molecule holds our genetic code?" | Context: DNA contains the genetic instructions for life. | Hint: It is a three-letter acronym.
+- Subject: Math | Question: "What shape does a linear equation make?" | Context: A linear equation makes a straight line on a graph. | Hint: The word line is in the name.
+- Subject: English | Question: "What is it called when the unexpected happens?" | Context: Irony is when the opposite of what is expected happens. | Hint: Starts with I.
+- Subject: History | Question: "Who were the two main powers in the Cold War?" | Context: The Cold War was a political rivalry between the US and USSR. | Hint: America and the Soviet Union.
+- Subject: Geography | Question: "What causes earthquakes?" | Context: Tectonic plates shifting cause earthquakes. | Hint: Moving pieces of the Earth crust.
+
+--- CLASS 10 ---
+- Subject: Science | Question: "Where is energy stored in a molecule?" | Context: Chemical bonds store energy that is released during reactions. | Hint: Think about what holds atoms together.
+- Subject: Math | Question: "How many real solutions can a quadratic equation have at most?" | Context: Quadratic equations can have up to two real solutions. | Hint: Think of the number two.
+- Subject: English | Question: "How many lines are in a sonnet?" | Context: A sonnet is a 14-line poem with a specific rhyme scheme. | Hint: Ten plus four.
+- Subject: History | Question: "What did the Civil Rights Movement fight for?" | Context: The Civil Rights Movement fought for equal rights in the 1960s. | Hint: Equality.
+- Subject: Geography | Question: "What does population density measure?" | Context: Population density measures how many people live in an area. | Hint: Crowdedness.
+
+--- CLASS 11 ---
+- Subject: Science | Question: "What branch of physics deals with atoms?" | Context: Quantum mechanics describes the behavior of matter at atomic scales. | Hint: It starts with Quantum.
+- Subject: Math | Question: "What calculus concept measures the rate of change?" | Context: The derivative represents the rate of change. | Hint: It starts with D.
+- Subject: English | Question: "What is the purpose of satire?" | Context: Satire uses humor to criticize stupidity or vices. | Hint: To make fun of or criticize.
+- Subject: History | Question: "What event symbolized the end of the Cold War?" | Context: The fall of the Berlin Wall in 1989 symbolized the end of the Cold War. | Hint: A wall coming down.
+- Subject: Geography | Question: "What is deforestation?" | Context: Deforestation is the clearing of large forested areas. | Hint: Removing trees.
+
+--- CLASS 12 ---
+- Subject: Science | Question: "Who developed the theory of relativity?" | Context: The theory of relativity was developed by Albert Einstein. | Hint: Famous physicist with wild hair.
+- Subject: Math | Question: "What do integrals calculate?" | Context: Integrals calculate the area under a curve. | Hint: The space beneath a line on a graph.
+- Subject: English | Question: "What term describes word order?" | Context: Syntax refers to the arrangement of words in a sentence. | Hint: Starts with Syn.
+- Subject: History | Question: "What is the term for a connected world economy?" | Context: Globalization refers to the interconnectedness of modern economies. | Hint: Think of the globe.
+- Subject: Geography | Question: "What are renewable resources?" | Context: Renewable resources can be replenished naturally. | Hint: Energy sources that do not run out.
+

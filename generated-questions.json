@@ -1,0 +1,1674 @@
+{
+  "gen_q118": {
+    "questionId": "gen_q118",
+    "subject": "math",
+    "classLevel": "1",
+    "concept": "math_basics_class_1",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 1?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 1"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 1.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 1 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q119": {
+    "questionId": "gen_q119",
+    "subject": "english",
+    "classLevel": "1",
+    "concept": "english_basics_class_1",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 1?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 1"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 1.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 1 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q120": {
+    "questionId": "gen_q120",
+    "subject": "history",
+    "classLevel": "1",
+    "concept": "history_basics_class_1",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 1?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 1"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 1.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 1 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q121": {
+    "questionId": "gen_q121",
+    "subject": "geography",
+    "classLevel": "1",
+    "concept": "geography_basics_class_1",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 1?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 1"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 1.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 1 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q122": {
+    "questionId": "gen_q122",
+    "subject": "math",
+    "classLevel": "2",
+    "concept": "math_basics_class_2",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 2?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 2"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 2.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 2 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q123": {
+    "questionId": "gen_q123",
+    "subject": "english",
+    "classLevel": "2",
+    "concept": "english_basics_class_2",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 2?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 2"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 2.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 2 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q124": {
+    "questionId": "gen_q124",
+    "subject": "history",
+    "classLevel": "2",
+    "concept": "history_basics_class_2",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 2?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 2"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 2.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 2 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q125": {
+    "questionId": "gen_q125",
+    "subject": "geography",
+    "classLevel": "2",
+    "concept": "geography_basics_class_2",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 2?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 2"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 2.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 2 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q126": {
+    "questionId": "gen_q126",
+    "subject": "math",
+    "classLevel": "3",
+    "concept": "math_basics_class_3",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 3?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 3"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 3.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 3 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q127": {
+    "questionId": "gen_q127",
+    "subject": "english",
+    "classLevel": "3",
+    "concept": "english_basics_class_3",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 3?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 3"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 3.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 3 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q128": {
+    "questionId": "gen_q128",
+    "subject": "history",
+    "classLevel": "3",
+    "concept": "history_basics_class_3",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 3?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 3"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 3.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 3 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q129": {
+    "questionId": "gen_q129",
+    "subject": "geography",
+    "classLevel": "3",
+    "concept": "geography_basics_class_3",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 3?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 3"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 3.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 3 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q130": {
+    "questionId": "gen_q130",
+    "subject": "math",
+    "classLevel": "4",
+    "concept": "math_basics_class_4",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 4?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 4"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 4.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 4 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q131": {
+    "questionId": "gen_q131",
+    "subject": "english",
+    "classLevel": "4",
+    "concept": "english_basics_class_4",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 4?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 4"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 4.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 4 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q132": {
+    "questionId": "gen_q132",
+    "subject": "history",
+    "classLevel": "4",
+    "concept": "history_basics_class_4",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 4?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 4"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 4.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 4 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q133": {
+    "questionId": "gen_q133",
+    "subject": "geography",
+    "classLevel": "4",
+    "concept": "geography_basics_class_4",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 4?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 4"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 4.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 4 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q134": {
+    "questionId": "gen_q134",
+    "subject": "math",
+    "classLevel": "5",
+    "concept": "math_basics_class_5",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 5?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 5"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 5.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 5 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q135": {
+    "questionId": "gen_q135",
+    "subject": "english",
+    "classLevel": "5",
+    "concept": "english_basics_class_5",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 5?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 5"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 5.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 5 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q136": {
+    "questionId": "gen_q136",
+    "subject": "history",
+    "classLevel": "5",
+    "concept": "history_basics_class_5",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 5?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 5"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 5.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 5 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q137": {
+    "questionId": "gen_q137",
+    "subject": "geography",
+    "classLevel": "5",
+    "concept": "geography_basics_class_5",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 5?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 5"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 5.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 5 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q138": {
+    "questionId": "gen_q138",
+    "subject": "math",
+    "classLevel": "7",
+    "concept": "math_basics_class_7",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 7?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 7"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 7.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 7 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q139": {
+    "questionId": "gen_q139",
+    "subject": "english",
+    "classLevel": "7",
+    "concept": "english_basics_class_7",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 7?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 7"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 7.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 7 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q140": {
+    "questionId": "gen_q140",
+    "subject": "history",
+    "classLevel": "7",
+    "concept": "history_basics_class_7",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 7?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 7"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 7.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 7 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q141": {
+    "questionId": "gen_q141",
+    "subject": "geography",
+    "classLevel": "7",
+    "concept": "geography_basics_class_7",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 7?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 7"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 7.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 7 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q142": {
+    "questionId": "gen_q142",
+    "subject": "math",
+    "classLevel": "8",
+    "concept": "math_basics_class_8",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 8?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 8"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 8.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 8 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q143": {
+    "questionId": "gen_q143",
+    "subject": "english",
+    "classLevel": "8",
+    "concept": "english_basics_class_8",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 8?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 8"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 8.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 8 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q144": {
+    "questionId": "gen_q144",
+    "subject": "history",
+    "classLevel": "8",
+    "concept": "history_basics_class_8",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 8?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 8"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 8.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 8 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q145": {
+    "questionId": "gen_q145",
+    "subject": "geography",
+    "classLevel": "8",
+    "concept": "geography_basics_class_8",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 8?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 8"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 8.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 8 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q146": {
+    "questionId": "gen_q146",
+    "subject": "math",
+    "classLevel": "9",
+    "concept": "math_basics_class_9",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 9?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 9"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 9.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 9 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q147": {
+    "questionId": "gen_q147",
+    "subject": "english",
+    "classLevel": "9",
+    "concept": "english_basics_class_9",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 9?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 9"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 9.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 9 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q148": {
+    "questionId": "gen_q148",
+    "subject": "history",
+    "classLevel": "9",
+    "concept": "history_basics_class_9",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 9?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 9"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 9.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 9 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q149": {
+    "questionId": "gen_q149",
+    "subject": "geography",
+    "classLevel": "9",
+    "concept": "geography_basics_class_9",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 9?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 9"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 9.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 9 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q150": {
+    "questionId": "gen_q150",
+    "subject": "math",
+    "classLevel": "10",
+    "concept": "math_basics_class_10",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 10?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 10"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 10.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 10 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q151": {
+    "questionId": "gen_q151",
+    "subject": "english",
+    "classLevel": "10",
+    "concept": "english_basics_class_10",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 10?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 10"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 10.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 10 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q152": {
+    "questionId": "gen_q152",
+    "subject": "history",
+    "classLevel": "10",
+    "concept": "history_basics_class_10",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 10?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 10"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 10.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 10 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q153": {
+    "questionId": "gen_q153",
+    "subject": "geography",
+    "classLevel": "10",
+    "concept": "geography_basics_class_10",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 10?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 10"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 10.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 10 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q154": {
+    "questionId": "gen_q154",
+    "subject": "math",
+    "classLevel": "11",
+    "concept": "math_basics_class_11",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 11?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 11"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 11.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 11 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q155": {
+    "questionId": "gen_q155",
+    "subject": "english",
+    "classLevel": "11",
+    "concept": "english_basics_class_11",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 11?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 11"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 11.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 11 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q156": {
+    "questionId": "gen_q156",
+    "subject": "history",
+    "classLevel": "11",
+    "concept": "history_basics_class_11",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 11?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 11"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 11.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 11 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q157": {
+    "questionId": "gen_q157",
+    "subject": "geography",
+    "classLevel": "11",
+    "concept": "geography_basics_class_11",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 11?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 11"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 11.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 11 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  },
+  "gen_q158": {
+    "questionId": "gen_q158",
+    "subject": "math",
+    "classLevel": "12",
+    "concept": "math_basics_class_12",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in math for class 12?",
+    "context": "Basic understanding of math",
+    "hints": [
+      "Think about math",
+      "Remember what you learned in class 12"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "math"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "math",
+      "class"
+    ],
+    "simpleExplanation": "This is a core math concept for class 12.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this math concept.",
+      "CONCEPTUAL_ERROR": "Let us review this math concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 12 math.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on math."
+    }
+  },
+  "gen_q159": {
+    "questionId": "gen_q159",
+    "subject": "english",
+    "classLevel": "12",
+    "concept": "english_basics_class_12",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in english for class 12?",
+    "context": "Basic understanding of english",
+    "hints": [
+      "Think about english",
+      "Remember what you learned in class 12"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "english"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "english",
+      "class"
+    ],
+    "simpleExplanation": "This is a core english concept for class 12.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this english concept.",
+      "CONCEPTUAL_ERROR": "Let us review this english concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 12 english.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on english."
+    }
+  },
+  "gen_q160": {
+    "questionId": "gen_q160",
+    "subject": "history",
+    "classLevel": "12",
+    "concept": "history_basics_class_12",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in history for class 12?",
+    "context": "Basic understanding of history",
+    "hints": [
+      "Think about history",
+      "Remember what you learned in class 12"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "history"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "history",
+      "class"
+    ],
+    "simpleExplanation": "This is a core history concept for class 12.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this history concept.",
+      "CONCEPTUAL_ERROR": "Let us review this history concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 12 history.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on history."
+    }
+  },
+  "gen_q161": {
+    "questionId": "gen_q161",
+    "subject": "geography",
+    "classLevel": "12",
+    "concept": "geography_basics_class_12",
+    "difficulty": "easy",
+    "questionText": "What is an important concept in geography for class 12?",
+    "context": "Basic understanding of geography",
+    "hints": [
+      "Think about geography",
+      "Remember what you learned in class 12"
+    ],
+    "correctKeywords": [
+      "important",
+      "concept",
+      "geography"
+    ],
+    "partialKeywords": [
+      "basic",
+      "learn"
+    ],
+    "wrongKeywords": [
+      "nothing",
+      "unknown"
+    ],
+    "roteMemoKeywords": [
+      "geography",
+      "class"
+    ],
+    "simpleExplanation": "This is a core geography concept for class 12.",
+    "explanations": {
+      "CORRECT": "Great job! You understand this geography concept.",
+      "CONCEPTUAL_ERROR": "Let us review this geography concept.",
+      "PARTIAL_UNDERSTANDING": "You are on the right track for class 12 geography.",
+      "ROTE_MEMORIZATION": "Try to understand the reasoning behind this.",
+      "IRRELEVANT_GUESSING": "Let us focus on geography."
+    }
+  }
+}

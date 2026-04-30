@@ -1,0 +1,962 @@
+{
+  "mapping_q_1": {
+    "questionId": "mapping_q_1",
+    "subject": "science",
+    "classLevel": "1",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Which part of the plant grows under the ground?",
+    "context": "Roots, stems, and leaves are parts of a plant.",
+    "hints": [
+      "Think about where water is found."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_2": {
+    "questionId": "mapping_q_2",
+    "subject": "math",
+    "classLevel": "1",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What comes after 8 when counting by twos?",
+    "context": "Counting by twos: 2, 4, 6, 8, 10.",
+    "hints": [
+      "Add 2 to 8."
+    ],
+    "correctKeywords": [
+      "Add"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_3": {
+    "questionId": "mapping_q_3",
+    "subject": "english",
+    "classLevel": "1",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Which word is a naming word (noun)?",
+    "context": "A noun is a person, place, or thing.",
+    "hints": [
+      "It is something you can touch."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_4": {
+    "questionId": "mapping_q_4",
+    "subject": "history",
+    "classLevel": "1",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Where did early humans live?",
+    "context": "Long ago, people lived in caves and hunted for food.",
+    "hints": [
+      "Dark places in mountains."
+    ],
+    "correctKeywords": [
+      "Dark"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_5": {
+    "questionId": "mapping_q_5",
+    "subject": "geography",
+    "classLevel": "1",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What tool helps us find places?",
+    "context": "A map shows us where places are located.",
+    "hints": [
+      "It is drawn on paper."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_6": {
+    "questionId": "mapping_q_6",
+    "subject": "science",
+    "classLevel": "2",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Why are plants called producers?",
+    "context": "Plants make their own food using sunlight.",
+    "hints": [
+      "They do not need to hunt for food."
+    ],
+    "correctKeywords": [
+      "They"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_7": {
+    "questionId": "mapping_q_7",
+    "subject": "math",
+    "classLevel": "2",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What is 10 more than 45?",
+    "context": "Adding tens means changing the digit in the tens place.",
+    "hints": [
+      "Count by tens from 45."
+    ],
+    "correctKeywords": [
+      "Count"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_8": {
+    "questionId": "mapping_q_8",
+    "subject": "english",
+    "classLevel": "2",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What does an adjective do?",
+    "context": "An adjective describes a noun.",
+    "hints": [
+      "It tells you more about a thing."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_9": {
+    "questionId": "mapping_q_9",
+    "subject": "history",
+    "classLevel": "2",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Why were the pyramids built?",
+    "context": "The Egyptians built the pyramids as tombs for pharaohs.",
+    "hints": [
+      "To bury their kings."
+    ],
+    "correctKeywords": [
+      "To"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_10": {
+    "questionId": "mapping_q_10",
+    "subject": "geography",
+    "classLevel": "2",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What kind of water is in the ocean?",
+    "context": "Oceans are large bodies of saltwater.",
+    "hints": [
+      "It is not fresh water."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_11": {
+    "questionId": "mapping_q_11",
+    "subject": "science",
+    "classLevel": "3",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What happens when you put a north pole and a south pole together?",
+    "context": "Magnets have a north and south pole. Opposite poles attract.",
+    "hints": [
+      "They pull toward each other."
+    ],
+    "correctKeywords": [
+      "They"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_12": {
+    "questionId": "mapping_q_12",
+    "subject": "math",
+    "classLevel": "3",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What is 3 x 4?",
+    "context": "Multiplication is repeated addition. 3 x 4 is 3 added 4 times.",
+    "hints": [
+      "Add 3 + 3 + 3 + 3."
+    ],
+    "correctKeywords": [
+      "Add"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_13": {
+    "questionId": "mapping_q_13",
+    "subject": "english",
+    "classLevel": "3",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Which of these is a verb?",
+    "context": "Verbs are action words, like run, jump, and play.",
+    "hints": [
+      "Look for the action."
+    ],
+    "correctKeywords": [
+      "Look"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_14": {
+    "questionId": "mapping_q_14",
+    "subject": "history",
+    "classLevel": "3",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Who started the Olympics?",
+    "context": "Ancient Greeks invented the Olympic Games.",
+    "hints": [
+      "People from Greece."
+    ],
+    "correctKeywords": [
+      "People"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_15": {
+    "questionId": "mapping_q_15",
+    "subject": "geography",
+    "classLevel": "3",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "Which model represents the Earth?",
+    "context": "The Earth is a sphere, and we use models called globes to see it.",
+    "hints": [
+      "It is round like a ball."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_16": {
+    "questionId": "mapping_q_16",
+    "subject": "science",
+    "classLevel": "4",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What do we call water when it is a solid?",
+    "context": "Water can be a solid, liquid, or gas.",
+    "hints": [
+      "Think of what you put in your drinks to cool them."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_17": {
+    "questionId": "mapping_q_17",
+    "subject": "math",
+    "classLevel": "4",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "If you cut a pizza into 4 equal slices and eat 1, what fraction did you eat?",
+    "context": "Fractions represent equal parts of a whole.",
+    "hints": [
+      "One out of four."
+    ],
+    "correctKeywords": [
+      "One"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_18": {
+    "questionId": "mapping_q_18",
+    "subject": "english",
+    "classLevel": "4",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "How should every sentence start?",
+    "context": "A sentence always begins with a capital letter.",
+    "hints": [
+      "Think about big letters."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_19": {
+    "questionId": "mapping_q_19",
+    "subject": "history",
+    "classLevel": "4",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What did the Romans build for travel?",
+    "context": "The Romans built long roads to connect their empire.",
+    "hints": [
+      "Paths for walking and carts."
+    ],
+    "correctKeywords": [
+      "Paths"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_20": {
+    "questionId": "mapping_q_20",
+    "subject": "geography",
+    "classLevel": "4",
+    "concept": "general",
+    "difficulty": "easy",
+    "questionText": "What is the highest landform?",
+    "context": "Mountains are the highest landforms on Earth.",
+    "hints": [
+      "They have peaks."
+    ],
+    "correctKeywords": [
+      "They"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_21": {
+    "questionId": "mapping_q_21",
+    "subject": "science",
+    "classLevel": "5",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How long does one revolution of the Earth take?",
+    "context": "The Earth revolves around the Sun, which takes 365 days.",
+    "hints": [
+      "It is the same as one year."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_22": {
+    "questionId": "mapping_q_22",
+    "subject": "math",
+    "classLevel": "5",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How do you find the perimeter of a square?",
+    "context": "The perimeter is the distance around a shape.",
+    "hints": [
+      "Add all the outside edges."
+    ],
+    "correctKeywords": [
+      "Add"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_23": {
+    "questionId": "mapping_q_23",
+    "subject": "english",
+    "classLevel": "5",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What is a simile?",
+    "context": "A simile compares two things using like or as.",
+    "hints": [
+      "It involves a comparison."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_24": {
+    "questionId": "mapping_q_24",
+    "subject": "history",
+    "classLevel": "5",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "Why did kings build castles?",
+    "context": "Castles were built in the Middle Ages for protection.",
+    "hints": [
+      "To stay safe from enemies."
+    ],
+    "correctKeywords": [
+      "To"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_25": {
+    "questionId": "mapping_q_25",
+    "subject": "geography",
+    "classLevel": "5",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What is a desert?",
+    "context": "A desert is a very dry area with little rain.",
+    "hints": [
+      "Think about sand and lack of water."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_26": {
+    "questionId": "mapping_q_26",
+    "subject": "science",
+    "classLevel": "6",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What is the smallest unit of life?",
+    "context": "Cells are the basic building blocks of all living things.",
+    "hints": [
+      "It sounds like the word sell."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_27": {
+    "questionId": "mapping_q_27",
+    "subject": "math",
+    "classLevel": "6",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How do you calculate the area of a rectangle?",
+    "context": "Area is the space inside a 2D shape. For a rectangle, it is length times width.",
+    "hints": [
+      "Multiply two sides."
+    ],
+    "correctKeywords": [
+      "Multiply"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_28": {
+    "questionId": "mapping_q_28",
+    "subject": "english",
+    "classLevel": "6",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How is a metaphor different from a simile?",
+    "context": "A metaphor states that one thing IS another thing.",
+    "hints": [
+      "It does not use like or as."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_29": {
+    "questionId": "mapping_q_29",
+    "subject": "history",
+    "classLevel": "6",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What does Renaissance mean?",
+    "context": "The Renaissance was a time of rebirth in art and learning.",
+    "hints": [
+      "It means rebirth."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_30": {
+    "questionId": "mapping_q_30",
+    "subject": "geography",
+    "classLevel": "6",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "Where do rivers flow into?",
+    "context": "Rivers flow downhill into lakes or oceans.",
+    "hints": [
+      "Larger bodies of water."
+    ],
+    "correctKeywords": [
+      "Larger"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_31": {
+    "questionId": "mapping_q_31",
+    "subject": "science",
+    "classLevel": "7",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What three things do plants need to make food?",
+    "context": "Photosynthesis requires sunlight, water, and carbon dioxide.",
+    "hints": [
+      "Light, a liquid, and a gas."
+    ],
+    "correctKeywords": [
+      "Light,"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_32": {
+    "questionId": "mapping_q_32",
+    "subject": "math",
+    "classLevel": "7",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What do we call an angle that is 45 degrees?",
+    "context": "An acute angle is less than 90 degrees.",
+    "hints": [
+      "It means sharp or small."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_33": {
+    "questionId": "mapping_q_33",
+    "subject": "english",
+    "classLevel": "7",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "Who is the protagonist?",
+    "context": "The protagonist is the main character in a story.",
+    "hints": [
+      "The hero or main person."
+    ],
+    "correctKeywords": [
+      "The"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_34": {
+    "questionId": "mapping_q_34",
+    "subject": "history",
+    "classLevel": "7",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What did the Industrial Revolution bring?",
+    "context": "The Industrial Revolution introduced machines and factories.",
+    "hints": [
+      "Things that make manufacturing faster."
+    ],
+    "correctKeywords": [
+      "Things"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_35": {
+    "questionId": "mapping_q_35",
+    "subject": "geography",
+    "classLevel": "7",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What is the equator?",
+    "context": "The equator is an imaginary line around the middle of the Earth.",
+    "hints": [
+      "It divides the Earth into North and South."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_36": {
+    "questionId": "mapping_q_36",
+    "subject": "science",
+    "classLevel": "8",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How do you calculate force?",
+    "context": "Force equals mass times acceleration (F=ma).",
+    "hints": [
+      "Multiply two other physical properties."
+    ],
+    "correctKeywords": [
+      "Multiply"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_37": {
+    "questionId": "mapping_q_37",
+    "subject": "math",
+    "classLevel": "8",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What theorem relates the sides of a right triangle?",
+    "context": "The Pythagorean theorem is a^2 + b^2 = c^2.",
+    "hints": [
+      "Named after Pythagoras."
+    ],
+    "correctKeywords": [
+      "Named"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_38": {
+    "questionId": "mapping_q_38",
+    "subject": "english",
+    "classLevel": "8",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "What literary device hints at the future?",
+    "context": "Foreshadowing gives hints about what will happen later.",
+    "hints": [
+      "Think about a shadow cast forward."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_39": {
+    "questionId": "mapping_q_39",
+    "subject": "history",
+    "classLevel": "8",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "In what year did WWI begin?",
+    "context": "World War I began in 1914.",
+    "hints": [
+      "Fourteen years after 1900."
+    ],
+    "correctKeywords": [
+      "Fourteen"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_40": {
+    "questionId": "mapping_q_40",
+    "subject": "geography",
+    "classLevel": "8",
+    "concept": "general",
+    "difficulty": "medium",
+    "questionText": "How is climate different from weather?",
+    "context": "Climate is the average weather over a long period.",
+    "hints": [
+      "It is over a long time."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_41": {
+    "questionId": "mapping_q_41",
+    "subject": "science",
+    "classLevel": "9",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What molecule holds our genetic code?",
+    "context": "DNA contains the genetic instructions for life.",
+    "hints": [
+      "It is a three-letter acronym."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_42": {
+    "questionId": "mapping_q_42",
+    "subject": "math",
+    "classLevel": "9",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What shape does a linear equation make?",
+    "context": "A linear equation makes a straight line on a graph.",
+    "hints": [
+      "The word line is in the name."
+    ],
+    "correctKeywords": [
+      "The"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_43": {
+    "questionId": "mapping_q_43",
+    "subject": "english",
+    "classLevel": "9",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What is it called when the unexpected happens?",
+    "context": "Irony is when the opposite of what is expected happens.",
+    "hints": [
+      "Starts with I."
+    ],
+    "correctKeywords": [
+      "Starts"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_44": {
+    "questionId": "mapping_q_44",
+    "subject": "history",
+    "classLevel": "9",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "Who were the two main powers in the Cold War?",
+    "context": "The Cold War was a political rivalry between the US and USSR.",
+    "hints": [
+      "America and the Soviet Union."
+    ],
+    "correctKeywords": [
+      "America"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_45": {
+    "questionId": "mapping_q_45",
+    "subject": "geography",
+    "classLevel": "9",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What causes earthquakes?",
+    "context": "Tectonic plates shifting cause earthquakes.",
+    "hints": [
+      "Moving pieces of the Earth crust."
+    ],
+    "correctKeywords": [
+      "Moving"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_46": {
+    "questionId": "mapping_q_46",
+    "subject": "science",
+    "classLevel": "10",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "Where is energy stored in a molecule?",
+    "context": "Chemical bonds store energy that is released during reactions.",
+    "hints": [
+      "Think about what holds atoms together."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_47": {
+    "questionId": "mapping_q_47",
+    "subject": "math",
+    "classLevel": "10",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "How many real solutions can a quadratic equation have at most?",
+    "context": "Quadratic equations can have up to two real solutions.",
+    "hints": [
+      "Think of the number two."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_48": {
+    "questionId": "mapping_q_48",
+    "subject": "english",
+    "classLevel": "10",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "How many lines are in a sonnet?",
+    "context": "A sonnet is a 14-line poem with a specific rhyme scheme.",
+    "hints": [
+      "Ten plus four."
+    ],
+    "correctKeywords": [
+      "Ten"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_49": {
+    "questionId": "mapping_q_49",
+    "subject": "history",
+    "classLevel": "10",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What did the Civil Rights Movement fight for?",
+    "context": "The Civil Rights Movement fought for equal rights in the 1960s.",
+    "hints": [
+      "Equality."
+    ],
+    "correctKeywords": [
+      "Equality."
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_50": {
+    "questionId": "mapping_q_50",
+    "subject": "geography",
+    "classLevel": "10",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What does population density measure?",
+    "context": "Population density measures how many people live in an area.",
+    "hints": [
+      "Crowdedness."
+    ],
+    "correctKeywords": [
+      "Crowdedness."
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_51": {
+    "questionId": "mapping_q_51",
+    "subject": "science",
+    "classLevel": "11",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What branch of physics deals with atoms?",
+    "context": "Quantum mechanics describes the behavior of matter at atomic scales.",
+    "hints": [
+      "It starts with Quantum."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_52": {
+    "questionId": "mapping_q_52",
+    "subject": "math",
+    "classLevel": "11",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What calculus concept measures the rate of change?",
+    "context": "The derivative represents the rate of change.",
+    "hints": [
+      "It starts with D."
+    ],
+    "correctKeywords": [
+      "It"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_53": {
+    "questionId": "mapping_q_53",
+    "subject": "english",
+    "classLevel": "11",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What is the purpose of satire?",
+    "context": "Satire uses humor to criticize stupidity or vices.",
+    "hints": [
+      "To make fun of or criticize."
+    ],
+    "correctKeywords": [
+      "To"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_54": {
+    "questionId": "mapping_q_54",
+    "subject": "history",
+    "classLevel": "11",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What event symbolized the end of the Cold War?",
+    "context": "The fall of the Berlin Wall in 1989 symbolized the end of the Cold War.",
+    "hints": [
+      "A wall coming down."
+    ],
+    "correctKeywords": [
+      "A"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_55": {
+    "questionId": "mapping_q_55",
+    "subject": "geography",
+    "classLevel": "11",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What is deforestation?",
+    "context": "Deforestation is the clearing of large forested areas.",
+    "hints": [
+      "Removing trees."
+    ],
+    "correctKeywords": [
+      "Removing"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_56": {
+    "questionId": "mapping_q_56",
+    "subject": "science",
+    "classLevel": "12",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "Who developed the theory of relativity?",
+    "context": "The theory of relativity was developed by Albert Einstein.",
+    "hints": [
+      "Famous physicist with wild hair."
+    ],
+    "correctKeywords": [
+      "Famous"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_57": {
+    "questionId": "mapping_q_57",
+    "subject": "math",
+    "classLevel": "12",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What do integrals calculate?",
+    "context": "Integrals calculate the area under a curve.",
+    "hints": [
+      "The space beneath a line on a graph."
+    ],
+    "correctKeywords": [
+      "The"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_58": {
+    "questionId": "mapping_q_58",
+    "subject": "english",
+    "classLevel": "12",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What term describes word order?",
+    "context": "Syntax refers to the arrangement of words in a sentence.",
+    "hints": [
+      "Starts with Syn."
+    ],
+    "correctKeywords": [
+      "Starts"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_59": {
+    "questionId": "mapping_q_59",
+    "subject": "history",
+    "classLevel": "12",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What is the term for a connected world economy?",
+    "context": "Globalization refers to the interconnectedness of modern economies.",
+    "hints": [
+      "Think of the globe."
+    ],
+    "correctKeywords": [
+      "Think"
+    ],
+    "wrongKeywords": []
+  },
+  "mapping_q_60": {
+    "questionId": "mapping_q_60",
+    "subject": "geography",
+    "classLevel": "12",
+    "concept": "general",
+    "difficulty": "hard",
+    "questionText": "What are renewable resources?",
+    "context": "Renewable resources can be replenished naturally.",
+    "hints": [
+      "Energy sources that do not run out."
+    ],
+    "correctKeywords": [
+      "Energy"
+    ],
+    "wrongKeywords": []
+  }
+}
