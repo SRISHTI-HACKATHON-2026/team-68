@@ -1,8 +1,8 @@
-# 🧠 ComprehensionAI - Comprehension-First Learning System
+# ComprehensionAI - Comprehension-First Learning System
 
 A revolutionary AI-powered learning platform designed to detect real understanding gaps in students rather than just marking answers as right or wrong. Specially designed for low-resource classrooms with limited internet access.
 
-## 🎯 Project Overview
+## Project Overview
 
 ComprehensionAI analyzes student responses to identify types of misunderstandings:
 - **Conceptual Errors** - Fundamental misunderstanding of the concept
@@ -11,32 +11,32 @@ ComprehensionAI analyzes student responses to identify types of misunderstanding
 - **Irrelevant Guessing** - Random or off-topic responses
 - **Correct Understanding** - Full grasp of the concept
 
-## ✨ Key Features
+##  Key Features
 
 ### For Students
-- 📚 Interactive question interface with hints
-- 🔍 Detailed misconception analysis
-- 📖 Story-based explanations for better comprehension
-- 🎨 Visual representations and diagrams
-- 💬 Peer discussion prompts for collaborative learning
-- 🌍 Multi-language support (English, Kannada, Hindi)
-- 📊 Progress tracking
+-  Interactive question interface with hints
+-  Detailed misconception analysis
+-  Story-based explanations for better comprehension
+-  Visual representations and diagrams
+-  Peer discussion prompts for collaborative learning
+-  Multi-language support (English, Kannada, Hindi)
+-  Progress tracking
 
 ### For Teachers
-- 📊 Comprehensive misconception dashboard
-- 🎯 Identification of common student errors
-- 📈 Class-wide learning trends
-- 💡 Recommendations for focused teaching
-- 📥 Export reports for further analysis
+-  Comprehensive misconception dashboard
+-  Identification of common student errors
+-  Class-wide learning trends
+-  Recommendations for focused teaching
+-  Export reports for further analysis
 
 ### System Features
-- ⚡ Fully offline-capable - works without internet
-- 🔐 Local storage using JSON files
-- 💾 Rule-based keyword matching for misconception detection
-- 🚀 Lightweight architecture suitable for low-resource environments
-- 🎨 Beautiful, responsive UI
+-  Fully offline-capable - works without internet
+-  Local storage using JSON files
+-  Rule-based keyword matching for misconception detection
+-  Lightweight architecture suitable for low-resource environments
+-  Beautiful, responsive UI
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 sdmhack/
@@ -74,7 +74,7 @@ sdmhack/
 └── README.md               # This file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -107,7 +107,7 @@ sdmhack/
    - Student Interface: `http://localhost:3000`
    - Teacher Dashboard: Available in the Student Interface via navigation
 
-## 🧪 Using the System
+##  Using the System
 
 ### Student Mode
 1. Select a question from the interface
@@ -129,7 +129,7 @@ sdmhack/
    - Common errors by concept
 3. Export reports for further analysis
 
-## 📊 Misconception Detection Algorithm
+##  Misconception Detection Algorithm
 
 The system uses a keyword-matching approach:
 
@@ -149,7 +149,7 @@ The system uses a keyword-matching approach:
 
 4. **Score Calculation**: 0-100 based on keyword matches
 
-## 🌐 Multi-Language Support
+##  Multi-Language Support
 
 The system supports three languages:
 - **English** (en)
@@ -158,7 +158,7 @@ The system supports three languages:
 
 Language can be switched from the navigation bar. Translations are stored in `data/languages/translations.json`.
 
-## 📝 Adding New Questions
+##  Adding New Questions
 
 To add questions, edit `data/questions/science-questions.json`:
 
@@ -187,28 +187,28 @@ To add questions, edit `data/questions/science-questions.json`:
 }
 ```
 
-## 📈 System Capabilities
+##  System Capabilities
 
 ### Misconception Detection
-- ✅ Identifies 5 types of understanding gaps
-- ✅ Calculates confidence scores (0-100%)
-- ✅ Provides keyword-level analysis
-- ✅ Works completely offline
+-  Identifies 5 types of understanding gaps
+-  Calculates confidence scores (0-100%)
+-  Provides keyword-level analysis
+-  Works completely offline
 
 ### Adaptive Feedback
-- ✅ Plain language explanations
-- ✅ Story-based analogies
-- ✅ Visual representation suggestions
-- ✅ Peer discussion prompts
-- ✅ Age-appropriate language
+-  Plain language explanations
+-  Story-based analogies
+-  Visual representation suggestions
+-  Peer discussion prompts
+-  Age-appropriate language
 
 ### Teacher Tools
-- ✅ Class-wide misconception trends
-- ✅ Common error identification
-- ✅ Progress tracking
-- ✅ Exportable reports
+-  Class-wide misconception trends
+-  Common error identification
+-  Progress tracking
+-  Exportable reports
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **Node.js** - Runtime environment
@@ -226,14 +226,14 @@ To add questions, edit `data/questions/science-questions.json`:
 ### Data
 - **JSON** - Local data storage (offline-capable)
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The system is fully responsive and works on:
-- 🖥️ Desktop computers
-- 💻 Tablets
-- 📱 Mobile devices
+-  Desktop computers
+-  Tablets
+-  Mobile devices
 
-## 🎨 UI/UX Features
+##  UI/UX Features
 
 - **Gradient Backgrounds**: Modern purple-blue theme
 - **Smooth Animations**: Engaging transitions
@@ -242,7 +242,7 @@ The system is fully responsive and works on:
 - **Progress Indicators**: Visual feedback on progress
 - **Color-Coded Elements**: Easy identification of feedback types
 
-## 📊 Sample Data
+##  Sample Data
 
 The project includes sample questions on:
 - **Photosynthesis**: How plants create food
@@ -251,7 +251,7 @@ The project includes sample questions on:
 - **Atomic Structure**: Subatomic particles
 - **Ecosystems**: Food chains and interdependence
 
-## 🔒 Offline Functionality
+##  Offline Functionality
 
 All data is stored locally:
 - Questions in `data/questions/`
@@ -260,7 +260,7 @@ All data is stored locally:
 
 No internet required after initial setup!
 
-## 🚀 Deployment
+##  Deployment
 
 To build for production:
 
@@ -271,15 +271,15 @@ npm run build
 
 The build folder is ready to be deployed.
 
-## 📄 License
+##  License
 
 MIT License - See LICENSE file for details
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
+##  Support
 
 For issues or suggestions, please create an issue in the repository.
 
